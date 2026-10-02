@@ -6,7 +6,7 @@ test/
 
 # Local API keys
 App/Config/keys.py
-
+notebok/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
