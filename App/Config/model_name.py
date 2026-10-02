@@ -1,0 +1,1 @@
+qwen3 = "qwen/qwen3-30b-a3b"
